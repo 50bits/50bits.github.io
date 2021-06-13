@@ -1,5 +1,5 @@
 # 50bits Deployment
-This repository could contain an older version of the original projects.
+This repository may contains an older version of the original projects.
 
 ## TimeLock
 * Deployment: [https://50bits.github.io/timelock/](https://50bits.github.io/timelock/)
