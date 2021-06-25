@@ -1,7 +1,7 @@
 # 50bits Deployment
 This repository may contains an older version of the original projects.
 
-## TimeLock
+## TimeVault
 * Deployment: [https://50bits.github.io/timevault/](https://50bits.github.io/timevault/)
 * Project: [https://github.com/50bits/timevault/](https://github.com/50bits/timevault/)
 
