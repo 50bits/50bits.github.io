@@ -2,8 +2,8 @@
 This repository may contains an older version of the original projects.
 
 ## TimeLock
-* Deployment: [https://50bits.github.io/timelock/](https://50bits.github.io/timelock/)
-* Project: [https://github.com/50bits/timelock/](https://github.com/50bits/timelock/)
+* Deployment: [https://50bits.github.io/timevault/](https://50bits.github.io/timevault/)
+* Project: [https://github.com/50bits/timevault/](https://github.com/50bits/timevault/)
 
 ## QR Code Generator
 * Deployment: [https://50bits.github.io/qrcode/](https://50bits.github.io/qrcode/)
