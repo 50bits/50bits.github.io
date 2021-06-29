@@ -1,4 +1,4 @@
-# 50bits Deployment
+# Deployment
 Stable versions and project links
 
 ## [Vault.50](https://50bits.github.io/vault/)
