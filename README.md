@@ -1,9 +1,9 @@
 # 50bits Deployment
-This repository may contains an older version of the original projects.
+This repository may contains older (stable) versions of the original projects.
 
-## TimeVault
-* Deployment: [https://50bits.github.io/timevault/](https://50bits.github.io/timevault/)
-* Project: [https://github.com/50bits/timevault/](https://github.com/50bits/timevault/)
+## Vault.50
+* Deployment: [https://50bits.github.io/vault/](https://50bits.github.io/vault/)
+* Project: [https://github.com/50bits/vault/](https://github.com/50bits/vault/)
 
 ## QR Code Generator
 * Deployment: [https://50bits.github.io/qrcode/](https://50bits.github.io/qrcode/)
